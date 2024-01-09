@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:CrashT;datatype:string,name:ArrivalT;datatype:string,name:Route;datatype:string,name:Location;datatype:string,name:VehicleN;datatype:string,name:DName;datatype:string,name:DriverL;datatype:string,name:Cause;datatype:string,name:Injured;datatype:string,name:Killed;datatype:string" />
+</info>
